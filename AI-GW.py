@@ -15,7 +15,7 @@ import HTMLParser
 #Edit these fields if desired
 ####################################
 user="AI-GW"
-passw="lalelulilo"
+passw="lalilulelo"
 sub="metalgearsolid"
 sday="9 1 2015 12:01AM" # format "MM DD YYYY HH:MMXM" like "9 1 2015 12:01AM"
 handle="sidebar updater by /u/s8l version 1"
