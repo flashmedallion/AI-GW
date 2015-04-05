@@ -1,5 +1,4 @@
 MarkupSafe==0.21
-itsdangerous==0.24
 praw==2.1.18
 requests==2.2.1
 six==1.6.1
