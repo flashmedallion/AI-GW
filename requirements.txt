@@ -1,4 +1,7 @@
-Flask==0.9
-Jinja2==2.6
-Werkzeug==0.8.3
-gunicorn==0.17.2
+MarkupSafe==0.21
+itsdangerous==0.24
+praw==2.1.18
+requests==2.2.1
+six==1.6.1
+update-checker==0.9
+virtualenv==1.11.4
