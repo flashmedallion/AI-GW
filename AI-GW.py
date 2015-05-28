@@ -84,7 +84,7 @@ def update(initialize=None):
 		sidebar_contents+="  "	
 	elif days<100:
 		sidebar_contents+=" "
-	sidebar_contents+= "[" + str(days) + " days remaining.](/countdown" + str(days) + ")"		
+	sidebar_contents+= "[" + str(days) + " days remaining](/countdown" + str(days) + ")"		
 	#update the new sidebar
 	r.update_settings(r.get_subreddit(sub), description=sidebar_contents)
 	r.clear_authentication()
